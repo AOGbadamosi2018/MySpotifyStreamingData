@@ -9,3 +9,4 @@ It was using in Python 3.8.0
 
 
 _UPDATE TO THIS PIPELINE IN 2023_
+The data tracks spotify data for the past 4 months
