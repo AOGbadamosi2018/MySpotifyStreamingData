@@ -1,5 +1,5 @@
 # MySpotifyStreamingData
-This code cleans streaming data recieved from spotify. 
+This code cleans my personal Spotify streaming data for 2021. 
 
 You can request for your spotify streaming data [here](https://www.spotify.com/ca-en/account/privacy/).
 It was using in Python 3.8.0
