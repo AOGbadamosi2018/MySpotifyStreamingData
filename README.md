@@ -14,7 +14,5 @@ The data tracks spotify data for the past 4 months
 Imported personal data on 3rd August 2022.
 Extended streaming data added on August 11th... 
 
-This are the final aspects of the outline...
-
-Reading in the JSON data....
-Here we are going . 
+What are the analysis objectives? 
+1. What periods do I listen to music the most ? 
