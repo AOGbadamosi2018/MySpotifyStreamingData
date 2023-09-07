@@ -15,4 +15,5 @@ Imported personal data on 3rd August 2022.
 Extended streaming data added on August 11th... 
 
 What are the analysis objectives? 
-1. What periods do I listen to music the most ? 
+1. What periods do I listen to music the most ?
+2. What genres am I the most comfortable listening to?
