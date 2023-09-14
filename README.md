@@ -17,3 +17,4 @@ Extended streaming data added on August 11th...
 What are the analysis objectives? 
 1. What periods do I listen to music the most ?
 2. What genres am I the most comfortable listening to?
+3. What is my average listening time per week ? 
